@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/www.xpsr.de"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
